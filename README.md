@@ -12,3 +12,9 @@ Since Delilah sourced most of her user-testers through her network, their backgr
 My response to the prompt is below:
 1. change the photos in the app (ex: robotics event such as FIRST publish their event photos online if worried about unrealistic photos)
 2. reach out to additional test users via clubs geared towards young girls - promote STEM while gaining young test users!
+
+Feedback:
+- I like the idea of showing photos from events, but I feel like it’s a double-edged sword because if the event has a diversity problem then the photos can portray an unwelcoming atmosphere
+- Finding groups that champion the experiences of identities you hope to reach is great, if you don’t know something, educate yourself and connect with someone who does!
+- Love the double win of accessing new users and being more inclusive/representational at the same time
+
